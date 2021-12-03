@@ -1,0 +1,13 @@
+.currentTodo_item {
+    margin: 0;
+}
+
+.currentTodo-flexContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}

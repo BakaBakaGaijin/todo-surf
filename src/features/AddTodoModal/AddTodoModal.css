@@ -1,0 +1,4 @@
+.addTodoModal-flexContainer {
+    display: flex;
+    justify-content: flex-end;
+}
